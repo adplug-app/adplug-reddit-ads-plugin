@@ -1,0 +1,36 @@
+{
+  "name": "adplug-reddit-ads",
+  "displayName": "AdPlug: Reddit Ads",
+  "version": "1.0.0",
+  "description": "Safely connect Reddit Ads to Grok, Grok Bot and Cursor, so your agent can check campaigns by community, find out why ads aren't delivering and make the changes you approve. Built for PPC specialists, agencies and in-house teams.",
+  "author": {
+    "name": "AdPlug",
+    "email": "support@adplug.app"
+  },
+  "publisher": "MEANDATA IT SRL",
+  "homepage": "https://adplug.app/integrations/reddit-ads",
+  "repository": "https://github.com/adplug-app/adplug-reddit-ads-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "adplug",
+    "reddit-ads",
+    "reddit-advertising",
+    "ppc",
+    "paid-social",
+    "community-targeting",
+    "keyword-targeting",
+    "reddit-pixel",
+    "conversions-api",
+    "ad-reporting",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "advertising",
+    "marketing",
+    "ppc",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

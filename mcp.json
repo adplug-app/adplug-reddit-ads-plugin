@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adplug-reddit-ads": {
+      "type": "http",
+      "url": "https://api.adplug.app/mcp/reddit-ads"
+    }
+  }
+}
